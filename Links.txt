@@ -5,4 +5,4 @@ LINK TO GITHUB BACKUP REPOSITORY
 https://github.com/kanrasha/CWHV_AV.git
 
 TERMINAL COMMAND TO CLONE (DOWNLOAD) THIS CWHV_AV FOLDER
-git clone https://github.com/kanrasha/CWHV_AV.git 'AV clone 01-14-23' | cd ~/desktop
+cd ~/desktop && git clone https://github.com/kanrasha/CWHV_AV.git 'AV 01-14-23’
