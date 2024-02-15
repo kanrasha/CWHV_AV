@@ -1,9 +1,10 @@
 City Winery Hudson Valley
 
 AV files backup:
-  -QL5 Scene Files
-  -Jands StageCL Show Files
-  -Other show files
+  -QL5 Master Show File
+  -Jands StageCL Show File
+  -HV advance files (hotel list, tech specs, venue maps)
+  -VOG recording
 
 LINK TO CWHV AV EQUIPMENT DOC
 https://worldinorder.notion.site/CWHV-EQUIPMENT-96ff13cd698b43719e38f92a9a7bc70a
