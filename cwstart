@@ -1,0 +1,8 @@
+#!/bin/zsh
+
+open -a /applications/'Brave Browser.app' https://citywinery.tripleseat.com/ \
+&& open -a /applications/'Brave Browser.app' https://dashboard.vivenu.com/ \
+&& open -a /applications/'Brave Browser.app' https://auth.toasttab.com/u/login/ \
+&& open -a /applications/'Brave Browser.app' https://payroll.toasttab.com/sign-in \
+&& open -a /applications/'Brave Browser.app' https://app.hotschedules.com/hs/login.jsp \
+&& open -a /applications/firefox.app https://mail.google.com
